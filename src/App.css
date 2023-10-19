@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto:ital,wght@1,100&display=swap');
+
+ .banner{
+    background-image: url(../src/component/bg.jpg);
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+  .tittle{
+    font-size: 60px;
+    width: 50vw;
+    margin-top: 50px;
+    
+  }
+
+   .nav{
+    display: flex;
+    justify-content:space-between;
+    padding: 10px;
+   }
+
+ .mb-2{
+    width: 15rem;
+    margin-left: 30px;
+ }
+
+ .mb-2:hover{
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); 
+ }
+
+  .competions{
+    background-image: url(../src/component/bg.jpg);
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+  }
+
+  .create{
+    background-image: url(../src/component/bg.jpg);
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+  }
